@@ -1,2 +1,2 @@
 # Storylines
-collecting existing processes that support climate risk storylines
+collecting existing processes and developing new approaches that support climate risk storylines
